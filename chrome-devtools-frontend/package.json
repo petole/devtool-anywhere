@@ -1,0 +1,81 @@
+{
+  "_args": [
+    [
+      "chrome-devtools-frontend",
+      "/Users/sbougon/Personel/projets/chrome-devtools-frontend"
+    ]
+  ],
+  "_from": "chrome-devtools-frontend@*",
+  "_id": "chrome-devtools-frontend@1.0.388981",
+  "_inCache": true,
+  "_location": "/chrome-devtools-frontend",
+  "_nodeVersion": "5.7.0",
+  "_npmOperationalInternal": {
+    "host": "packages-12-west.internal.npmjs.com",
+    "tmp": "tmp/chrome-devtools-frontend-1.0.388981.tgz_1461294020781_0.3531658591236919"
+  },
+  "_npmUser": {
+    "email": "paul.irish@gmail.com",
+    "name": "paulirish"
+  },
+  "_npmVersion": "3.8.1",
+  "_phantomChildren": {},
+  "_requested": {
+    "name": "chrome-devtools-frontend",
+    "raw": "chrome-devtools-frontend",
+    "rawSpec": "",
+    "scope": null,
+    "spec": "*",
+    "type": "range"
+  },
+  "_requiredBy": [
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/chrome-devtools-frontend/-/chrome-devtools-frontend-1.0.388981.tgz",
+  "_shasum": "c7835b706a7b75da33cd37018203074b5abe05f9",
+  "_shrinkwrap": null,
+  "_spec": "chrome-devtools-frontend",
+  "_where": "/Users/sbougon/Personel/projets/chrome-devtools-frontend",
+  "author": {
+    "name": "Paul Irish"
+  },
+  "bugs": {
+    "url": "https://code.google.com/p/chromium/issues/list?can=2&q=Cr%3DPlatform-DevTools&colspec=ID+Pri+Stars+Status+Owner+Summary+Modified&x=m&y=releaseblock&cells=tiles"
+  },
+  "dependencies": {},
+  "description": "Chrome DevTools' UI",
+  "devDependencies": {},
+  "directories": {},
+  "dist": {
+    "shasum": "c7835b706a7b75da33cd37018203074b5abe05f9",
+    "tarball": "https://registry.npmjs.org/chrome-devtools-frontend/-/chrome-devtools-frontend-1.0.388981.tgz"
+  },
+  "gitHead": "72c8f36f3ad49418410275376a20f64f55c750b7",
+  "homepage": "https://devtools.chrome.com",
+  "installable": true,
+  "keywords": [
+    "blink",
+    "chrome",
+    "chromium",
+    "debugger",
+    "devtools"
+  ],
+  "license": "SEE LICENSE IN https://chromium.googlesource.com/chromium/src/+/master/LICENSE",
+  "main": "front_end/inspector.html",
+  "maintainers": [
+    {
+      "name": "paulirish",
+      "email": "paul.irish@gmail.com"
+    }
+  ],
+  "name": "chrome-devtools-frontend",
+  "optionalDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ChromeDevTools/devtools-frontend.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "version": "1.0.388981"
+}
